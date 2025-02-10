@@ -2,6 +2,8 @@
 
 Source files (`.drawio`, `.pkt`) can be found in `./src`.
 
+Includes some OSPF Areas and a couple of VLANs. Didn't finish up patching routers configurations though.
+
 ## Base Network Architecture
 
 ![image](assets/base.png)
